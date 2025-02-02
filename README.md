@@ -34,7 +34,7 @@ Biometrics/Passcode Protected:
 
 Nav Bar:
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 14 06 51](https://github.com/user-attachments/assets/9b128612-4145-48e9-ad9e-3a90a27dad9e)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 14 06 51](https://github.com/user-attachments/assets/6727dada-6ac0-42a9-a8d0-22953c9cf986)
 
 
 Encryption Activity:
