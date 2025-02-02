@@ -24,12 +24,12 @@ SecureEncryption is an iOS application built with SwiftUI that allows you to enc
 
 Splash Screen: 
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 14 06 28](https://github.com/user-attachments/assets/eb32627e-ed18-473b-baa8-5c9978c36e14)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 14 06 28](https://github.com/user-attachments/assets/635ad9ec-106a-4c84-9e17-cd5f63633288)
 
 
 Biometrics/Passcode Protected:
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 14 06 33](https://github.com/user-attachments/assets/6d28277a-da58-473f-bba0-636ff5096188)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 14 06 33](https://github.com/user-attachments/assets/5e19aeb8-31a2-4e5b-8ca1-d5a1abbeb0b1)
 
 
 Nav Bar:
@@ -39,7 +39,12 @@ Nav Bar:
 
 Encryption Activity:
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 14 06 43](https://github.com/user-attachments/assets/60aba8c7-99a6-44bb-b13d-1b2fa953b1ee)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 14 06 39](https://github.com/user-attachments/assets/f5109c75-d3c8-4840-894a-5c6d733edcbd)
+
+
+Encryption Settings:
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 14 06 43](https://github.com/user-attachments/assets/c20dbac7-290e-4edc-91d2-911508d9e458)
 
 
 Decryption Activity:
@@ -49,7 +54,8 @@ Decryption Activity:
 
 History Activity:
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 14 07 42](https://github.com/user-attachments/assets/61cf5498-f69d-4dfb-8792-571d10930541)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 14 07 42](https://github.com/user-attachments/assets/fa0971d4-a2e0-4c79-a553-68d2ce6656af)
+
 
 ## Requirements
 
