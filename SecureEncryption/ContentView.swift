@@ -155,7 +155,7 @@ struct MessageComposeView: UIViewControllerRepresentable {
     func updateUIViewController(_ uiViewController: MFMessageComposeViewController, context: Context) { }
 }
 
-// MARK: - Animated Splash Screen
+// splash screen
 
 struct SplashView: View {
     @State private var opacity: Double = 0.0
