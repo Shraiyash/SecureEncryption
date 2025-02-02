@@ -44,7 +44,7 @@ Encryption Activity:
 
 Decryption Activity:
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 14 06 49](https://github.com/user-attachments/assets/9f9c86dc-e8b7-4816-91b3-3f73e713545d)
+![Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 14 06 49](https://github.com/user-attachments/assets/8e79ca9b-55a5-4432-8f9b-021c013b323b)
 
 
 History Activity:
